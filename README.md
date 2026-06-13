@@ -13,8 +13,3 @@
 * Використання методів масивів: `filter`, `sort`, `map`, `reduce`.
 * Статуси: `todo`, `in-progress`, `done`.
 * Автоматична перевірка дати (deadline) відносно поточного часу.
-
-## Як запустити
-1. Склонуйте репозиторій:
-   ```bash
-   git clone [https://github.com/ваш-username/js-arrays-part1-variant3.git](https://github.com/Flankcerz/js-arrays-part1-variant3.git)
